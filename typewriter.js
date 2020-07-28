@@ -6,6 +6,7 @@ for (const char of sentence) {
     // print the char here
     process.stdout.write("\n" + char);
   }, count);
-  count+=50;
+  count += 50;
  
-};
+}
+
